@@ -7,6 +7,7 @@ function show() {
     document.getElementById("btnID")
             .style.display = "none";
 }
+
 function showCapital() {
 
     let image = document.getElementById("capital");
@@ -16,3 +17,4 @@ function showCapital() {
     document.getElementById("btnID1")
             .style.display = "none";
 }
+
