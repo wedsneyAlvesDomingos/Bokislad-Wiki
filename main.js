@@ -7,3 +7,12 @@ function show() {
     document.getElementById("btnID")
             .style.display = "none";
 }
+function showCapital() {
+
+    let image = document.getElementById("capital");
+
+    image.src ="srodek.jpg"
+
+    document.getElementById("btnID1")
+            .style.display = "none";
+}
