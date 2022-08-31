@@ -79,10 +79,10 @@ h1{
 .mapa{
     text-align: center;
     padding-top: 30px;
-margin: auto;
+    margin: auto;
 }
 
-#image{
+#image,#capital{
     width: 88%;
     height:auto;
 
