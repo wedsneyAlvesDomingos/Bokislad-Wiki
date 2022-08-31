@@ -14,6 +14,7 @@ header{
     margin: auto;
 }
 
+
 h1{
     display: inline-block;
     font-size: 6em;
@@ -21,21 +22,19 @@ h1{
     font-weight: bolder;
     text-shadow: 10px 10px #191d42;
     margin-top: 80px;
-    
-  
-    
+
 }
 
 .menu{
     text-align: center;  
-
+    
     margin-bottom: 80px;
     padding-top: 100px;
     margin: auto;
     margin-left: 10px;
 }
 
-button{
+.botao{
     font-family: 'Silkscreen', cursive;
     margin-top: 5px;
     color: #3f2d44;
@@ -45,15 +44,37 @@ button{
     border: none;
     width: 400px;
     font-weight: bold;
+    
     background-color:rgb(179, 228, 217);
-    box-shadow: 5px 05px #191d42;
+    box-shadow: 5px 5px #191d42;
 }
 
-button:hover{
+.inicial{
+    font-family: 'Silkscreen', cursive;
+    margin-top: 5px;
+    color: #3f2d44;
+    margin-bottom: 5px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    font-weight: bold;
+    background-color:rgb(137, 212, 255);
+    box-shadow: 5px 5px #191d42;
+}
+
+.botao:hover{
     background-color:rgb(96, 145, 134);
     cursor: pointer;
 
 }
+
+.inicial:hover{
+    background-color:rgb(80, 157, 201);
+    cursor: pointer;
+
+}
+
 
 .mapa{
     text-align: center;
@@ -65,4 +86,13 @@ margin: auto;
     width: 88%;
     height:auto;
 
+}
+ 
+section{
+    letter-spacing: 1px;
+    line-height: 1.5;
+    border: #191d42;
+    background:rgb(179, 228, 217 , 0.7);
+    text-shadow: 1px 1px #585d7e;
+    font-size: 1.3em;
 }
