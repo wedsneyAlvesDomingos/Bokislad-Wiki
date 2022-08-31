@@ -5,6 +5,7 @@ body{
     background-size:cover ;
     display: inline-block;
     font-family: 'Silkscreen', cursive;
+    padding: 10px;
     
 }
 
@@ -111,7 +112,9 @@ section{
     line-height: 1.5;
     border: #191d42;
     background:rgb(179, 228, 217 , 0.7);
-    text-shadow: 1px 1px #585d7e;
+    text-shadow: 1px 1px #585d7e 0.7;
     font-size: 1.3em;
+    padding: 20px;
+    text-align: justify;
 }
 
