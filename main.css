@@ -46,11 +46,11 @@ h2{
 }
 
 .mapa{
-    width:87%;
+    width:90%;
     margin: auto;
     align-content: center;
     justify-content: center;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 
 
@@ -129,6 +129,7 @@ section{
     width: 90%;
     margin: auto;
    margin-bottom: 30px;
+   
 }
 
 .minititulo{
