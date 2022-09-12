@@ -53,6 +53,13 @@ h2{
     margin-left: 5%;
 }
 
+#capital{
+    width: 91%;
+    display: block;
+    margin: auto;
+    
+}
+
 
 .menu{
  text-align: center;
@@ -109,12 +116,6 @@ width: 87%;
 
 
 
-
- #capital{
-    width: 88%;
-    height:auto;
-
-}
  
 section{
     letter-spacing: 1px;
